@@ -6,14 +6,14 @@
 	</a>
 </div>
 
-> ₍^. .^₎⟆ Hi, I'm Isabelle · Hola, soy Isabelle · 안녕하세요, 저는 이사벨이에요!
+> ₍^. .^₎⟆ Hi, I'm Isabelle! · Hola, soy Isabelle!
 
-I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sentric.com/), working towards a future in Electronic Engineering.  
+I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sentric.com/)!
 
 Based in the UK · Christian  
 
 ---
-
+<!-- 
 ## ˖᯽ ݁˖ Current Projects  
 
 - **[Bokbi](https://www.bokbi.me/)**  
@@ -29,6 +29,7 @@ Based in the UK · Christian
 ᝰ.ᐟ I also blog here: [izzycodes.tumblr.com](https://izzycodes.tumblr.com/)
 
 ---
+-->
 
 ## ˖᯽ ݁˖ Tech Stack
 
