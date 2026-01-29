@@ -6,21 +6,20 @@
 	</a>
 </div>
 
-> ₍^. .^₎⟆ Hi, I'm Isabelle! · Hola, soy Isabelle!
+> ₍^. .^₎⟆ Hi, I'm Isabelle! · 我叫伊莎贝尔!
 
-I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sentric.com/)!
-
-Based in the UK · Christian  
+I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sentric.com/)! Based in the UK · Christian  
 
 ---
-<!-- 
+
 ## ˖᯽ ݁˖ Current Projects  
 
 - **[Bokbi](https://www.bokbi.me/)**  
-  A creative project made with [@Zenioxyn](https://github.com/zenionyx) and me.  
-  - Tumblr: [bokbi-official](https://bokbi-official.tumblr.com/)  
-  - Bluesky: [bokbi.bsky.social](https://bsky.app/profile/bokbi.bsky.social)
+  Unify all of your online reading in one library - better organisation, better tracking. All your stories, all in one place
+  
+  <img width=50% src="https://www.bokbi.me/_next/image?url=%2Flanding%2Fintro-image.png&w=1920&q=75" />
 
+<!-- 
 - **[TumblrTextTint](https://tumblrtexttint.netlify.app/)**  
   A simple web app for customizing Tumblr text colors.  
   - [Repo](https://github.com/izzycodes02/TumblrTextTint)  
