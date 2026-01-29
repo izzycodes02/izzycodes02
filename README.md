@@ -12,6 +12,23 @@ I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sen
 
 ---
 
+## ˖᯽ ݁˖ Tech Stack
+
+**Frontend**  
+HTML · CSS · SCSS · React · TypeScript · Next.js  
+
+**Backend / Tools**  
+Supabase · Vercel  
+
+---
+
+## ˖᯽ ݁˖ Currently Learning
+
+Python · C
+
+
+---
+
 ## ˖᯽ ݁˖ Current Projects  
 
 - **[Bokbi](https://www.bokbi.me/)**  
@@ -30,17 +47,4 @@ I’m a Frontend Software Engineer at [Sentric Music Publishing](https://www.sen
 ---
 -->
 
-## ˖᯽ ݁˖ Tech Stack
-
-**Frontend**  
-HTML · CSS · SCSS · React · TypeScript · Next.js  
-
-**Backend / Tools**  
-Supabase · Vercel  
-
----
-
-## ˖᯽ ݁˖ Currently Learning
-
-Python (revisiting) · C++
 
